@@ -4,7 +4,7 @@ The exponential growth in internet usage has led to a surge in cyber-attacks, wi
 
 The core objective of the project is to create a robust IDS leveraging machine learning techniques to detect DDoS attacks effectively. The system is trained and tested using the CIC-DDoS 2019 dataset, a comprehensive resource for understanding modern DDoS attack patterns.
 
-#Key Features:
+# Key Features:
 Machine Learning Models:
   Support Vector Machine (SVM)
   Logistic Regression (LR)

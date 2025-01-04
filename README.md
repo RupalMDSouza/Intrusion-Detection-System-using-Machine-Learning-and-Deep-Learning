@@ -1,7 +1,6 @@
 # Intrusion-Detection-System-using-Machine-Learning-and-Deep-Learning
 
 **Objective:**
-
 The project aims to develop an AI-driven Intrusion Detection System (IDS) to detect Distributed Denial of Service (DDoS) attacks within a communication network. By leveraging machine learning and deep learning models, the system identifies abnormal activities and ensures network availability.
 
 **Dataset:**

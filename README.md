@@ -1,9 +1,9 @@
 # Intrusion-Detection-System-using-Machine-Learning-and-Deep-Learning
 
-Objective:
+#Objective:
 The project aims to develop an AI-driven Intrusion Detection System (IDS) to detect Distributed Denial of Service (DDoS) attacks within a communication network. By leveraging machine learning and deep learning models, the system identifies abnormal activities and ensures network availability.
 
-Dataset:
+##Dataset:
 The project utilizes the CIC-DDoS 2019 dataset, developed by the Canadian Institute for Cybersecurity. This dataset, consisting of 2.8 million network packets, represents recent network traffic and contains seven attack types: brute force, Heartbleed, Botnet, DoS, DDoS, Web Attack, and Infiltration.
 
 Scope:
